@@ -1,5 +1,5 @@
 # Data_science 365
-# **Journey of 300DaysOfData in Machine Learning and Deep Learning**
+# **Journey of 365DaysOfData in Machine Learning and Deep Learning**
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
